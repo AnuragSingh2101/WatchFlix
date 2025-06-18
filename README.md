@@ -44,6 +44,8 @@ Built with React.js for the user interface, Appwrite for backend services, and s
 
 - **[Vite](https://vite.dev/)** is a modern build tool that provides a fast development environment for frontend projects. It offers features like hot module replacement (HMR) and optimized builds, enhancing the development experience and performance.
 
+- **[TMDB](https://www.themoviedb.org/)** It (The Movie Database) is a community-driven platform packed with info on movies, TV shows, and actors. It offers trailers, posters, ratings, and an easy-to-use API for developers.
+
 
 ## <a name="features">🔋 Features</a>
 
@@ -56,8 +58,9 @@ Built with React.js for the user interface, Appwrite for backend services, and s
 👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
-
 and many more, including code architecture and reusability
+
+![Template Image](./public/template.png)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
